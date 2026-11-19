@@ -1,0 +1,7 @@
+# Never commit passwords, connection strings or local settings
+.env
+*.env
+.vscode/settings.json
+*.log
+*.dump
+*.backup

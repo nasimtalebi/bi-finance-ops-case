@@ -1,7 +1,6 @@
 # BI case: one trusted view of finance and operations (practice project)
 
-A small, fully **invented** case for practising BI and consolidation work in PostgreSQL.
-No real company data is used.
+A small, case for  BI and consolidation work in PostgreSQL.
 
 **Scenario:** a group with 3 entities (Netherlands, UK, Singapore) in 3 currencies
 (EUR, GBP, SGD), 12 months of ledger data, operational KPIs and a budget.
